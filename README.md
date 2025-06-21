@@ -12,7 +12,7 @@
   </div>
 </div>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="Cityscape" width="25" height="25" />GTA VI Landing – Immersive Promo Page Concept</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="Cityscape" width="25" height="25" /> GTA VI Landing – Immersive Promo Page Concept</h3>
 
 ---
 
