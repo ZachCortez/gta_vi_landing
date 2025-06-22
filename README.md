@@ -33,13 +33,11 @@
 
 ## <a name="tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack</a>
 
-- **[React 19](https://reactjs.org/)** – Component-based frontend framework
-- **[GSAP](https://greensock.com/gsap/)** – Animation engine for timeline-based scroll effects
-- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS for responsive design
-- **[Vite](https://vitejs.dev/)** – Fast build tool and dev server
-- **[ESLint](https://eslint.org/)** – Code linting and formatting
-- **[SplitText](https://gsap.com/SplitText/)** – (GSAP Plugin) For animating individual words/characters.
-- **[ScrollTrigger](https://gsap.com/ScrollTrigger/)** – (GSAP Plugin) For scroll-driven animations.
+- **[React 19](https://reactjs.org/)** – is a declarative JavaScript library for building interactive UIs. It provides the component structure for modular development, allowing smooth integration of GSAP animations, reusable logic for scroll behavior, and support for responsive layout and state-driven UI features like carousels and video sections.
+- **[GSAP](https://greensock.com/gsap/)** – is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
+- **[Tailwind CSS](https://tailwindcss.com/)** – is a utility-first CSS framework that allows developers to design custom user interfaces by applying low-level utility classes directly in HTML, streamlining the design process.
+- **[Vite](https://vitejs.dev/)** – is a lightning-fast build tool and development server that powers this project’s workflow. It enables instant hot module replacement, fast startup, and optimized production builds—ideal for an animation-heavy React site with smooth, real-time development feedback and minimal config.
+
 
 ---
 
